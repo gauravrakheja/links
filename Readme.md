@@ -28,7 +28,7 @@
 ### Funtional Programming
 * [Scott Wlaschin Domain modelling made functional](https://www.youtube.com/watch?v=Up7LcbGZFuo&t=2594s)
 * [Scott Wlaschin Funtional Design patterns](https://www.youtube.com/watch?v=srQt1NAHYC0)
-* [John Hughes Why Functional Programming Matters](John Hughes)
+* [John Hughes Why Functional Programming Matters](https://www.youtube.com/watch?v=XrNdvWqxBvA)
 
 ### Tech Philosophy
 * [Katrina Owen Cultivating Instinct](https://www.youtube.com/watch?v=DUhaZjduryY)
