@@ -1,9 +1,10 @@
 # Tech Talks
 ### Software Architecture/Design/Craftsmanship
 * [Software Art though](https://www.youtube.com/watch?v=5cafjDPPtJ0)
-* [Kevin Henner Move slow Mend things](https://www.youtube.com/watch?v=1kklyq4XYpw)
-* [Kevin Henney Small is beautiful](https://www.youtube.com/watch?v=B3b4tremI5o)
+* [Kevlin Henney Move slow Mend things](https://www.youtube.com/watch?v=1kklyq4XYpw)
+* [Kevlin Henney Small is beautiful](https://www.youtube.com/watch?v=B3b4tremI5o)
 * [Simon Brown The modular monolith](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+* [Kevlin Henney Changes](https://www.youtube.com/watch?v=5f-RMwTqKok&ab_channel=DevoxxUK)
 
 ### Object Oriented Design / Refactoring
 * [Sandi metz Solid](https://www.youtube.com/watch?v=v-2yFMzxqwU)
@@ -63,5 +64,13 @@
 * [Your work is the only thing that matters](https://medium.com/s/story/your-work-is-the-only-thing-that-matters-26a47ccf778c)
 
 
-# Tools/Useful Links
-* [Ruby-toolbox a list of useful ruby gems with a nice interface and categorization](https://www.ruby-toolbox.com/)
+
+# Newsletters I follow
+* https://blog.pragmaticengineer.com/newsletter/
+* https://react.statuscode.com/
+* https://nodeweekly.com/
+* https://rubyweekly.com/
+* https://golangweekly.com/
+* https://javascriptweekly.com/
+* https://console.dev/
+* https://www.thesignal.co/subscribe
