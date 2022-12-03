@@ -5,6 +5,15 @@
 * [Kevlin Henney Small is beautiful](https://www.youtube.com/watch?v=B3b4tremI5o)
 * [Simon Brown The modular monolith](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 * [Kevlin Henney Changes](https://www.youtube.com/watch?v=5f-RMwTqKok&ab_channel=DevoxxUK)
+* [Katrina Owen Cultivating Instinct](https://www.youtube.com/watch?v=DUhaZjduryY)
+* [Rober Bob Martin The scribe's oath(History of programmers)](https://www.youtube.com/watch?v=Tng6Fox8EfI&t=1487s)
+* [Avdi Grimm Soul of Software](https://www.youtube.com/watch?v=zs0E4E83_X8)
+* [Avid Grimm #nocode](https://www.youtube.com/watch?v=5o58SR_9Id0)
+* [Kevin Henney Old is the new new](https://www.youtube.com/watch?v=AbgsfeGvg3E)
+* [Ben Orenstein How to talk to developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)
+* [Bob C. Martin Effective Estimation](https://www.youtube.com/watch?v=eisuQefYw_o)
+* [Martin Fowler Not just Code Monkeys](https://youtu.be/4E3xfR6IBII)
+* [Billy Hollis Lies Developers Tell Themselves](https://www.youtube.com/watch?v=cADdwFk2-7U&t=314s&ab_channel=NDCConferences)
 
 ### Object Oriented Design / Refactoring
 * [Sandi metz Solid](https://www.youtube.com/watch?v=v-2yFMzxqwU)
@@ -30,17 +39,6 @@
 * [Scott Wlaschin Domain modelling made functional](https://www.youtube.com/watch?v=Up7LcbGZFuo&t=2594s)
 * [Scott Wlaschin Funtional Design patterns](https://www.youtube.com/watch?v=srQt1NAHYC0)
 * [John Hughes Why Functional Programming Matters](https://www.youtube.com/watch?v=XrNdvWqxBvA)
-
-### Tech Philosophy
-* [Katrina Owen Cultivating Instinct](https://www.youtube.com/watch?v=DUhaZjduryY)
-* [Rober Bob Martin The scribe's oath(History of programmers)](https://www.youtube.com/watch?v=Tng6Fox8EfI&t=1487s)
-* [Avdi Grimm Soul of Software](https://www.youtube.com/watch?v=zs0E4E83_X8)
-* [Avid Grimm #nocode](https://www.youtube.com/watch?v=5o58SR_9Id0)
-* [Kevin Henney Old is the new new](https://www.youtube.com/watch?v=AbgsfeGvg3E)
-* [Ben Orenstein How to talk to developers](https://www.youtube.com/watch?v=l9JXH7JPjR4)
-* [Bob C. Martin Effective Estimation](https://www.youtube.com/watch?v=eisuQefYw_o)
-* [Martin Fowler Not just Code Monkeys](https://youtu.be/4E3xfR6IBII)
-
 
 # Blogs
 ### Software Architecture/Clean Code
